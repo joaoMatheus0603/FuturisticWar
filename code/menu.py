@@ -4,7 +4,7 @@ import pygame.image
 from pygame import Surface, Rect
 from pygame.font import Font
 
-from code.Const import COLOR_CYAN, COLOR_YELLOW, MENU_OPTION, WIN_WIDTH
+from code.Const import COLOR_CYAN, COLOR_WHITE, MENU_OPTION, WIN_WIDTH
 
 
 class Menu:
@@ -22,7 +22,7 @@ class Menu:
             self.menu_text(70, "War", COLOR_CYAN, ((WIN_WIDTH / 2), 140))
 
             for i in range(len(MENU_OPTION)):
-                self.menu_text(20, MENU_OPTION[i], COLOR_YELLOW, ((WIN_WIDTH / 2), 210 + 40 * i))
+                self.menu_text(20, MENU_OPTION[i], COLOR_WHITE, ((WIN_WIDTH / 2), 210 + 40 * i))
 
             pygame.display.flip()
 
