@@ -1,6 +1,6 @@
 # C
-COLOR_CYAN = (3, 207, 252)
-COLOR_WHITE = (255, 255, 255)
+COLOR_CYAN = (143, 214, 255)
+COLOR_YELLOW = (255, 236, 92)
 
 # M
 MENU_OPTION = ('NEW GAME 1P',
@@ -8,7 +8,6 @@ MENU_OPTION = ('NEW GAME 1P',
                'NEW GAME 2P - COMPETITIVE',
                'SCORE',
                'EXIT')
-
 
 # W
 WIN_WIDTH = 711
