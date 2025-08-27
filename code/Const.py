@@ -114,6 +114,15 @@ ENTITY_SPEED = {
     'Level1Bg6': 6,
     'Level1Bg7': 7,
     'Level1Bg8': 8,
+    'Level2Bg0': 0,
+    'Level2Bg1': 0.2,
+    'Level2Bg2': 2,
+    'Level2Bg3': 3,
+    'Level2Bg4': 4,
+    'Level2Bg5': 5,
+    'Level2Bg6': 6,
+    'Level2Bg7': 7,
+    'Level2Bg8': 8,
     'Player1': 4,
     'Player1Shot': 2,
     'Player2': 4,
@@ -123,6 +132,8 @@ ENTITY_SPEED = {
     'Enemy2': 1,
     'Enemy2Shot': 3,
 }
+
+EVENT_TIMEOUT = pygame.USEREVENT + 2
 
 # M
 MENU_OPTION = ('NEW GAME 1P',
@@ -145,6 +156,10 @@ PLAYER_KEY_SHOOT = {'Player1': pygame.K_RCTRL,
 
 # S
 SPAWN_TIME = 4000
+
+# T
+TIMEOUT_LEVEL = 20000  # 20 segundos
+TIMEOUT_STEP = 100  # 100 milissegundos
 
 # W
 WIN_WIDTH = 576
