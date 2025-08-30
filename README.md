@@ -1,4 +1,4 @@
-![alt text](https://github.com/joaoMatheus0603/FuturisticWar/blob/master/asset/Player1.png) # Futuristic War ![alt text](https://github.com/joaoMatheus0603/FuturisticWar/blob/master/asset/Player1.png)
+![alt text](https://github.com/joaoMatheus0603/FuturisticWar/blob/master/asset/Player1.png) ![alt text](https://github.com/joaoMatheus0603/FuturisticWar/blob/master/asset/Player2.png) # Futuristic War ![alt text](https://github.com/joaoMatheus0603/FuturisticWar/blob/master/asset/Player1.png) ![alt text](https://github.com/joaoMatheus0603/FuturisticWar/blob/master/asset/Player2.png)
 ===============
 
 
