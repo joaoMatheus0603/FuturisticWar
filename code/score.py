@@ -92,3 +92,4 @@ def get_formatted_date():
     current_time = current_datetime.strftime("%H:%M")
     current_date = current_datetime.strftime("%d/%m/%y")
     return f"{current_time} - {current_date}"
+
